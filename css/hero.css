@@ -19,6 +19,7 @@ h1, h2 {
 header h1{   
     color: #4285f4;
     font-size: 50px;
+    text-shadow: 0px 0px 10px #a09211;
 }
 
 header img{
@@ -42,6 +43,7 @@ h2{
     font-size: 35px;
     color: #f1db13;
     margin: 60px 0 20px;
+    text-shadow: 0px 0px 5px #2b2b2b23
 }
 
 a{
@@ -82,4 +84,8 @@ p.caption{
     font-size: 15px;
     padding: 0px;
     font-style: italic;
+}
+
+h1 {
+   
 }
