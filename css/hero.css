@@ -69,10 +69,12 @@ footer a:hover{
 
 ol {
     text-align: left;
+    line-height: 20px;
 }
 
 ul {
     text-align: left;
+    line-height: 20px;
 }
 
 p.caption{
