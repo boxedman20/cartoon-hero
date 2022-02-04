@@ -89,6 +89,7 @@ h1 {
    
 }
 
-video {
+iframe {
     padding: 60px;
+    text-align: center;
 }
